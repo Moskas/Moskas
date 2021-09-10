@@ -1,0 +1,31 @@
+
+  /* Nord dark */
+  .theme-dark {
+    --background-primary:#2E3440;
+    --background-primary-alt: #3B4252;
+    --background-secondary: #3B4252;
+    --background-secondary-alt: #3B4252;
+    --background-tertiary: #2E3440;
+    --background-floating :#3B4252;
+    --channeltextarea-background :#3B4252;
+
+    --text-normal : #d5d5d5;
+    --text-link : #80d1ff;
+    --text-muted : #d5d5d5;
+
+    --text-warning : #ff8080;
+
+    --brand-experiment : #4C566A !important;
+
+    --interactive-normal : #d5d5d5;
+    --interactive-hover : #ffffff;
+    --interactive-active : #ffffff;
+    --interactive-muted : #d5d5d5;
+  
+  }
+  
+  .container-1D34oG > div {
+    background-color : var(--background-primary);
+  }
+
+  
