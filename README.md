@@ -1,6 +1,6 @@
 - Hi, I’m @Moskas
-- I’m interested in JavaScript, Node.js as well as C++/Java
-- I’m currently learning Node.js and C++
+- I’m interested in Rust, Python, C++
+- I’m currently learning Rust
 - How to reach me via e-mail or on Discord Moskas#5626
 
 <!---
