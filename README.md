@@ -1,7 +1,7 @@
 # Hi, I’m @Moskas
-- I’m interested in Rust, Python, C++
+- I’m interested in Rust, Python
 - I’m currently learning Rust
-- How to reach me via e-mail or on Discord Moskas#5626
+- How to reach me: via e-mail or on Discord Moskas#5626
 
 ## Other links
 [Codewars](https://www.codewars.com/users/Moskas)
